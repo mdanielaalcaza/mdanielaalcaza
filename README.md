@@ -1,11 +1,9 @@
-<h1 align="center">👋 ¡Hola! Soy Maria Daniela Alcaza</h1>
+<h1 align="center">👋 ¡Hola! Soy Daniela Alcaza</h1>
 
 <p align="center">
   🚀 <b>**Tester de Software ISTQB® | QA Manual & Automation**</b> 
   <br>
-  🔍 Apasionada por la calidad del software, con experiencia en **testing manual** y en **automatización** con **Cypress y Playwright**.
-  <br>
-  💡 Busco optimizar procesos de prueba y mejorar la experiencia del usuario a través de **pruebas funcionales, de API y automatizadas**.
+  🔍 Apasionada por la calidad del software, busco optimizar procesos de prueba y mejorar la experiencia del usuario a través de **pruebas funcionales, de API y automatizadas**.
 </p>
 
 <!--<p align="center">
@@ -53,8 +51,9 @@
   <a href="https://www.linkedin.com/in/mdaniela-alcaza/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:mdaniela.alcaza@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:mdaniela.alcaza@gmail.com" style="margin-left: 50 px;">
+    <img src="https://img.shields.io/badge/Email-D92D2B?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+<br>
 ⭐ *Siempre aprendiendo y explorando nuevas herramientas para mejorar la calidad del software.*  
