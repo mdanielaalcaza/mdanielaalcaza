@@ -1,9 +1,9 @@
 <h1 align="center">👋 ¡Hola! Soy Daniela Alcaza</h1>
 
 <p align="center">
-  🚀 <b>**Tester de Software ISTQB® | QA Manual & Automation**</b> 
+  🚀 <b>Tester de Software ISTQB® | QA Manual & Automation</b> 
   <br>
-  🔍 Apasionada por la calidad del software, busco optimizar procesos de prueba y mejorar la experiencia del usuario a través de **pruebas funcionales, de API y automatizadas**.
+  🔍 Apasionada por la calidad del software, busco optimizar procesos de prueba y mejorar la experiencia del usuario a través de <b>Pruebas Funcionales, de API y Automatizadas</b>.
 </p>
 
 <!--<p align="center">
@@ -55,5 +55,4 @@
     <img src="https://img.shields.io/badge/Email-D92D2B?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-<br>
 ⭐ *Siempre aprendiendo y explorando nuevas herramientas para mejorar la calidad del software.*  
